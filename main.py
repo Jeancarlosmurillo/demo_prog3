@@ -5,4 +5,4 @@ def multiplicacion(x,y):
     return x*y
 
 resultado=restar(5,7)
-print(resultado)
+print("Cambio" + str (resultado))
