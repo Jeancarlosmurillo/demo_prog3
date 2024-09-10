@@ -4,5 +4,11 @@ def restar(x,y):
 def multiplicacion(x,y):
     return x*y
 
+def division(x,y):
+    if y==0:
+        return 0
+    else:
+        return x/y
+
 resultadoo=restar(5,7)
-print(resultadoo)
+print("Cambio" + str (resultadoo))
