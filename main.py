@@ -4,5 +4,5 @@ def restar(x,y):
 def multiplicacion(x,y):
     return x*y
 
-resultado=restar(5,7)
-print(resultado)
+resultadoo=restar(5,7)
+print(resultadoo)
