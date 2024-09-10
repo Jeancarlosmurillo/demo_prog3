@@ -13,5 +13,5 @@ def division(x,y):
 def potenciacion(x,y):
     return x**y 
 
-resultadoo=restar(5,7)
-print("Cambio" + str (resultadoo))
+resultadooo=restar(5,7)
+print("Cambio" + str (resultadooo))
